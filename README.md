@@ -22,5 +22,5 @@ This project analyzes sales data from *Vrinda Store* using **Microsoft Excel** t
 ## 📌 Author
 **Abhijeet Kumar Pandey**  
 Email: abhijeet.kr.pandey.07@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abhijeet-kumar-pandey-324455239/
+LinkedIn:https://www.linkedin.com/in/abhitech07/    
 
